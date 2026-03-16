@@ -42,4 +42,5 @@
   <constants>Constant.DemoConfDT</constants>
   <catalogs>Catalog.НовыйСправочник</catalogs>
   <documents>Document.НовыйДокумент</documents>
+  <enums>Enum.НовоеПеречисление</enums>
 </mdclass:Configuration>
